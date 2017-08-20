@@ -4,7 +4,7 @@
 
 - python3.6.2 以上で動作保証
   - 使用ライブラリ: [Python Twitter Tools](https://github.com/sixohsix/twitter)
-- 名前変更はデフォルトでは下記で行う
+- 名前変更はデフォルトでは下記で行う  
   NEW\_NAME(@screen_name)
 - config/config.iniに下記を記入する必要あり
   - consumer\_key
