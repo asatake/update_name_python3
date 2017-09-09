@@ -3,7 +3,7 @@
 __author__ = 'asatake'
 
 from twitter import Twitter, OAuth, TwitterStream
-from logging import basicConfig, getLogger, FileHandler, Formatter, DEBUG, ERROR
+from logging import getLogger, FileHandler, Formatter, DEBUG, ERROR
 import configparser
 import os
 import re
